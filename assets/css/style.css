@@ -1,0 +1,38 @@
+/* Starter CSS for your portfolio */
+body {
+  font-family: 'Poppins', Arial, sans-serif;
+  background: #f4f7fa;
+  color: #222;
+  margin: 0;
+  padding: 0;
+}
+
+.sidebar {
+  background: #fff;
+  box-shadow: 0 0 16px rgba(44, 62, 80, 0.08);
+  width: 320px;
+  min-height: 100vh;
+  float: left;
+  padding: 2em 1em;
+}
+
+.main-content {
+  margin-left: 340px;
+  padding: 2em 1em;
+}
+
+h1, h2, h3, h4, h5 {
+  font-weight: 600;
+  color: #2d6cdf;
+}
+
+a {
+  color: #2d6cdf;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Add more CSS below as needed for your layout and sections */
